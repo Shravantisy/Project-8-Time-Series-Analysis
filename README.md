@@ -10,7 +10,7 @@ ARIMA models use differencing to convert a non-stationary time series into a sta
 1. Used ARIMA model
 2. Find p, d, q vales with the help of acf and pacf graphs.
 3. Find p, d, q values by using auto_arima
-4. compared different AIC.
+4. compared different AIC(Akaike Information Critera).
 5. checked errors.
 6. Predict Forecast.
 
